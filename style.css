@@ -1,0 +1,46 @@
+body {
+    background-color: moccasin;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#HAHA {
+    background-color: gray;
+    padding: 20px;
+    border: 1px solid orange;
+    border-radius: 10px;
+    box-shadow: 0 6px 12px 
+    
+}
+
+input {
+    padding: 10px;
+    font-size: 16px;
+    margin: 10px;
+    border: 2px solid orange;
+    border-radius: 200px;
+}
+
+input:hover {
+    background-color: moccasin;
+    box-shadow: 0 6px 12px;
+}
+
+button {
+    padding: 10px;
+    font-size: 16px;
+    margin: 10px;
+    background-color: black;
+    color: white;
+    font-size: 16px;
+    width: 96%;
+    border-radius: 10px;
+}
+
+button:hover {
+    background-color: moccasin;
+    box-shadow: 0 6px 12px;
+    color: black;
+}
